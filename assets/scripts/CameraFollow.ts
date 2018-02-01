@@ -20,7 +20,7 @@ export default class CameraFollow extends cc.Component {
         let trigger = this.node.getComponent<Trigger>(Trigger);
         trigger.collisionEntercallback = this.spanNode.bind(this);   
     }
-
+    
     update(dt){
         if(this.gamemamanger.curstate == State.control ){
             this.node.y += this.movespeed*dt;

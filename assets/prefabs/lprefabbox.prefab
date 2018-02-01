@@ -155,7 +155,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "0aQJdGmShFJq3LicKLTP+I",
+    "fileId": "95I9MZ3p1FxpRg24hHiPL5",
     "sync": false
   },
   {
@@ -228,10 +228,10 @@
     "_dstBlendFactor": 771,
     "playOnLoad": false,
     "_autoRemoveOnFinish": false,
-    "_totalParticles": 100,
-    "_duration": 0.8,
+    "_totalParticles": 30,
+    "_duration": 0.5,
     "_emissionRate": 50,
-    "_life": 0.8,
+    "_life": 1,
     "_lifeVar": 0,
     "_startColor": {
       "__type__": "cc.Color",
@@ -311,7 +311,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "5c8h+ZaOFAHaTkhD7Gk7cJ",
+    "fileId": "74gmdLUspH8KAF4fggnaai",
     "sync": false
   },
   {
@@ -342,7 +342,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "5al8OA3h1CN6nWvDB4qEy0",
+    "fileId": "42eQCPReFKyZ+5tA7y+dvQ",
     "sync": false
   }
 ]
