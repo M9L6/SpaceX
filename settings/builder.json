@@ -1,0 +1,33 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.SpaceX",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "12672e7f-015c-4aa3-9580-5ef7bd5b6140",
+  "title": "SpaceX",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "8b9ffea1-6012-41",
+  "zipCompressJs": true
+}
